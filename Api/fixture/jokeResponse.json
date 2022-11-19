@@ -1,0 +1,86 @@
+{
+    "error": false,
+    "amount": 150,
+    "jokes": [
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "My grandfather says I'm too reliant on technology.\nI called him a hypocrite and unplugged his life support.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 178,
+            "safe": false,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "Algorithm: A word used by programmers when they don't want to explain how their code works.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 51,
+            "safe": true,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "single",
+            "joke": "Two fish in a tank. One turns to the other and says, \"Do you know how to drive this thing?\"",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 185,
+            "safe": true,
+            "lang": "en"
+        },
+        {
+            "category": "Dark",
+            "type": "single",
+            "joke": "Doctor: \"I have some news about your baby.\"\nParents: \"Don't tell us the gender, we want to keep it a surprise.\"\nDoctor: \"Oh I get it, you're those type of people. Okay, well IT is not breathing.\"",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 138,
+            "safe": false,
+            "lang": "en"
+        },
+        {
+            "category": "Programming",
+            "type": "single",
+            "joke": "\"Can I tell you a TCP joke?\"\n\"Please tell me a TCP joke.\"\n\"OK, I'll tell you a TCP joke.\"",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 57,
+            "safe": true,
+            "lang": "en"
+        }
+    ]
+}
